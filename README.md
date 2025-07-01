@@ -1,5 +1,5 @@
 # Hi, I'm Vishal 👋  
-Student | Aspiring Software Engineering | Competitive Programmer
+Student | Aspiring Software Engineer | Competitive Programmer
 
 I’m an enthusiastic learner passionate about quantitative finance, machine learning, and competitive programming. I enjoy building impactful projects that blend deep technical insight with practical problem-solving. My journey encompasses hands-on work in deep learning, time series, and intelligent systems—always striving to push my boundaries and learn something new every day.
 
@@ -59,18 +59,12 @@ Engineered a deep learning system using Convolutional Neural Networks to classif
 
 ---
 
-## 📝 Publications
-
-- Research paper in progress: Stochastic Calculus + Alpha Generation
-
----
-
 ## 🤖 Fun Facts
 
 - Competitive programming enthusiast  
 - Always experimenting with workflow optimizations (Emacs, Linux, keyboard setups)  
 - Exploring AI-based monetization and startup ideas  
 
-> "Anything that doesn't kill you makes you better." — Friedrich Nietzsche
+> “You may encounter many defeats, but you must not be defeated.” — Maya Angelou
 
 ---
