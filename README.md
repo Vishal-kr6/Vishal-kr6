@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi, I'm Vishal 👋  
+Student | Aspiring Software Engineering | Competitive Programmer
 
-<!--
-**Vishal-kr6/Vishal-kr6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an enthusiastic learner passionate about quantitative finance, machine learning, and competitive programming. I enjoy building impactful projects that blend deep technical insight with practical problem-solving. My journey encompasses hands-on work in deep learning, time series, and intelligent systems—always striving to push my boundaries and learn something new every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools
+
+**Languages:**  
+C++, Python, JavaScript
+
+**Frontend:**  
+MERN stack (always learning, currently strengthening my frontend skills)
+
+**Backend:**  
+C++ (multi-threaded systems), Node.js
+
+**Data Science/ML:**  
+Python (pandas, scikit-learn, matplotlib), Deep Learning (Keras, PyTorch basics)
+
+**Others:**  
+MongoDB, Express.js, Git, Emacs, Linux (Kali, GNOME)
+
+**Frameworks & Tools:**  
+- C++ STL, threading  
+- React.js, Express.js, MongoDB  
+- scikit-learn, matplotlib, seaborn, GridSearchCV  
+- Emacs (custom init), GNOME tweaks  
+
+---
+
+## 🔬 Interests
+
+- Quantitative Finance & Algorithmic Trading  
+- Deep Learning & AI Applications  
+- Full-Stack Web Development  
+- Speech & Language Technologies  
+
+---
+
+## 📚 Projects
+
+### Voice AI Chatbot  
+Developed an interactive chatbot that understands and communicates with users through voice. Integrated speech recognition and natural language processing, enabling real-time, conversational responses. Focused on creating accessible and engaging user experiences through modular, scalable code.
+
+### LSTM Time Series Applications  
+Built robust forecasting models using Long Short-Term Memory (LSTM) neural networks. Tackled real-world time series datasets to predict trends and patterns, emphasizing strong data preprocessing, model optimization, and clear result visualization.
+
+### Traffic Signs Classification (CNN)  
+Engineered a deep learning system using Convolutional Neural Networks to classify traffic signs from images. Designed custom architectures and training pipelines, contributing to intelligent transportation system solutions and safe autonomous driving technologies.
+
+---
+
+## 🎤 Talks & Presentations
+
+- Non-Destructive Testing in Ceramics (class presentation)  
+- ML-based Fraud Detection (detailed model evaluation)  
+
+---
+
+## 📝 Publications
+
+- Research paper in progress: Stochastic Calculus + Alpha Generation
+
+---
+
+## 🤖 Fun Facts
+
+- Competitive programming enthusiast  
+- Always experimenting with workflow optimizations (Emacs, Linux, keyboard setups)  
+- Exploring AI-based monetization and startup ideas  
+
+> "Anything that doesn't kill you makes you better." — Friedrich Nietzsche
+
+---
