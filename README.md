@@ -52,17 +52,9 @@ Developed an Artificial Neural Network model to predict polymer intrinsic viscos
 
 Designed and trained a Convolutional Neural Network to classify fracture surface images and identify fracture mechanisms. Focused on image preprocessing, model optimization, and performance evaluation.
 
-### Mechanical Property Prediction of Metallic Alloys
-
-Built machine learning models to predict mechanical properties of metallic alloys from composition and processing parameters, enabling faster material design and optimization.
-
 ### Conduction Mechanism Detection from I-V Characteristics
 
 Developing machine learning approaches to automatically identify conduction transport mechanisms such as Ohmic, Schottky, and Poole-Frenkel conduction from electrical characterization data.
-
-### Deepfake Face-Swap Detection
-
-Worked on AI-based techniques for detecting face-swap deepfake videos using computer vision and deep learning methodologies.
 
 ---
 
