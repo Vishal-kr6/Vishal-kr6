@@ -44,10 +44,6 @@ I'm passionate about building intelligent systems, solving challenging problems,
 
 ## 🔬 Featured Projects
 
-### Intrinsic Viscosity Prediction using SMILES
-
-Developed an Artificial Neural Network model to predict polymer intrinsic viscosity directly from molecular representations. Built a complete workflow involving data preprocessing, feature engineering, model training, and deployment through an interactive interface.
-
 ### Fracture Surface Classification using CNN
 
 Designed and trained a Convolutional Neural Network to classify fracture surface images and identify fracture mechanisms. Focused on image preprocessing, model optimization, and performance evaluation.
