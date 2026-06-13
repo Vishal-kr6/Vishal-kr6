@@ -1,70 +1,107 @@
-# Hi, I'm Vishal 👋  
-Student | Aspiring Software Engineer | Competitive Programmer
+# Hi, I'm Vishal Kumar 👋
 
-I’m an enthusiastic learner passionate about quantitative finance, machine learning, and competitive programming. I enjoy building impactful projects that blend deep technical insight with practical problem-solving. My journey encompasses hands-on work in deep learning, time series, and intelligent systems—always striving to push my boundaries and learn something new every day.
+🎓 Metallurgical & Materials Engineering Undergraduate at VNIT Nagpur
 
----
+💻 Aspiring Software Engineer | Machine Learning Enthusiast | Competitive Programmer
 
-## 🚀 Skills & Tools
-
-**Languages:**  
-C++, Python, JavaScript
-
-**Frontend:**  
-MERN stack (always learning, currently strengthening my frontend skills)
-
-**Backend:**  
-C++ (multi-threaded systems), Node.js
-
-**Data Science/ML:**  
-Python (pandas, scikit-learn, matplotlib), Deep Learning (Keras, PyTorch basics)
-
-**Others:**  
-MongoDB, Express.js, Git, Emacs, Linux (Kali, GNOME)
-
-**Frameworks & Tools:**  
-- C++ STL, threading  
-- React.js, Express.js, MongoDB  
-- scikit-learn, matplotlib, seaborn, GridSearchCV  
-- Emacs (custom init), GNOME tweaks  
+I'm passionate about building intelligent systems, solving challenging problems, and applying data-driven approaches to real-world engineering applications. My interests span software development, machine learning, data analytics, and materials informatics. I enjoy exploring how AI can be leveraged to solve practical problems while continuously improving my problem-solving and programming skills.
 
 ---
 
-## 🔬 Interests
+## 🚀 Tech Stack
 
-- Quantitative Finance & Algorithmic Trading  
-- Deep Learning & AI Applications  
-- Full-Stack Web Development  
-- Speech & Language Technologies  
+### Languages
+
+* C++
+* Python
+* JavaScript
+* SQL
+
+### Machine Learning & Data Science
+
+* TensorFlow
+* Keras
+* Scikit-Learn
+* Pandas
+* NumPy
+* Matplotlib
+
+### Web Development
+
+* Node.js
+* Express.js
+* MongoDB
+* React.js (Learning)
+
+### Tools & Platforms
+
+* Git & GitHub
+* Linux
+* VS Code
+* Jupyter Notebook
 
 ---
 
-## 📚 Projects
+## 🔬 Featured Projects
 
-### Voice AI Chatbot  
-Developed an interactive chatbot that understands and communicates with users through voice. Integrated speech recognition and natural language processing, enabling real-time, conversational responses. Focused on creating accessible and engaging user experiences through modular, scalable code.
+### Intrinsic Viscosity Prediction using SMILES
 
-### LSTM Time Series Applications  
-Built robust forecasting models using Long Short-Term Memory (LSTM) neural networks. Tackled real-world time series datasets to predict trends and patterns, emphasizing strong data preprocessing, model optimization, and clear result visualization.
+Developed an Artificial Neural Network model to predict polymer intrinsic viscosity directly from molecular representations. Built a complete workflow involving data preprocessing, feature engineering, model training, and deployment through an interactive interface.
 
-### Traffic Signs Classification (CNN)  
-Engineered a deep learning system using Convolutional Neural Networks to classify traffic signs from images. Designed custom architectures and training pipelines, contributing to intelligent transportation system solutions and safe autonomous driving technologies.
+### Fracture Surface Classification using CNN
+
+Designed and trained a Convolutional Neural Network to classify fracture surface images and identify fracture mechanisms. Focused on image preprocessing, model optimization, and performance evaluation.
+
+### Mechanical Property Prediction of Metallic Alloys
+
+Built machine learning models to predict mechanical properties of metallic alloys from composition and processing parameters, enabling faster material design and optimization.
+
+### Conduction Mechanism Detection from I-V Characteristics
+
+Developing machine learning approaches to automatically identify conduction transport mechanisms such as Ohmic, Schottky, and Poole-Frenkel conduction from electrical characterization data.
+
+### Deepfake Face-Swap Detection
+
+Worked on AI-based techniques for detecting face-swap deepfake videos using computer vision and deep learning methodologies.
 
 ---
 
-## 🎤 Talks & Presentations
+## 💻 Competitive Programming
 
-- Non-Destructive Testing in Ceramics (class presentation)  
-- ML-based Fraud Detection (detailed model evaluation)  
+* Actively practicing Data Structures and Algorithms
+* Solving coding problems on LeetCode and other platforms
+* Strengthening problem-solving skills through consistent practice
 
 ---
 
-## 🤖 Fun Facts
+## 📚 Areas of Interest
 
-- Competitive programming enthusiast  
-- Always experimenting with workflow optimizations (Emacs, Linux, keyboard setups)  
-- Exploring AI-based monetization and startup ideas  
+* Software Engineering
+* Machine Learning & Deep Learning
+* Data Analytics
+* Materials Informatics
+* Computer Vision
+* Artificial Intelligence Applications
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Data Structures & Algorithms
+* Full-Stack Development
+* Machine Learning Deployment
+* System Design Fundamentals
+
+---
+
+## 📈 Goals for 2026
+
+* Secure a Software Engineering / Data Analyst / ML-related role
+* Strengthen expertise in Data Structures & Algorithms
+* Build impactful real-world projects
+* Contribute to open-source projects
+* Continue exploring AI applications in engineering and industry
+
+---
 
 > “You may encounter many defeats, but you must not be defeated.” — Maya Angelou
-
----
